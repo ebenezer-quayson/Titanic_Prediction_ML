@@ -70,7 +70,7 @@ The following table summarizes the performance of the models:
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/titanic-ml.git
+   git clone https://github.com/ebenezer-quayson/Titanic_Prediction_ML.git
    ```
 2. Install dependencies:
    ```bash
